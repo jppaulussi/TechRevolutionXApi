@@ -1,0 +1,6 @@
+@TechRevolutionXApi_HostAddress = http://localhost:5115
+
+GET {{TechRevolutionXApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
